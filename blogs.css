@@ -1,0 +1,47 @@
+.title {
+    border-bottom: 1px solid #ccc;
+}
+
+.title h4 {
+    color: #e8bd72;
+    font-weight: 600;
+}
+
+.card-title {
+    color: #103151 !important;
+    transition: all 0.2s ease;
+}
+
+.card-title:hover {
+    color: #e8bd72 !important;
+    cursor: pointer;
+}
+
+.card img {
+    transition: all 0.3s ease;
+}
+
+.card img:hover {
+    transform: scale(1.05);
+}
+
+.xem-them {
+    background-color: #ccc;
+    opacity: 0.6;
+    border: none;
+    border-radius: 25px;
+    display: block;
+    padding: 4px;
+    width: 150px;
+    height: 40px;
+}
+
+.xem-them:hover {
+    background-color: #e8bd72;
+    color: #fff;
+}
+
+.xem-them p {
+    text-align: center;
+    font-weight: 600;
+}

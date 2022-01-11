@@ -7,7 +7,14 @@
     font-weight: 600;
 }
 
-.vct p {
+.chi-muc {
+    text-decoration: underline;
+    font-style: italic;
+    color: #5a6069;
+}
+
+.content {
     color: #5a6069;
     font-style: italic;
+    line-height: 2;
 }
